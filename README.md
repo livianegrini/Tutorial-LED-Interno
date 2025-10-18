@@ -21,8 +21,6 @@ Nesta primeira etapa, o LED foi programado para acender e apagar a cada 500 mili
 
 ### Código Utilizado
 
-# 💡 Projeto Pisca-Pisca com Arduino
-
 <div align="center">
 <sub>Imagem 01: Código em execução no Arduino UNO.</sub>
 </div>
@@ -59,7 +57,7 @@ Vídeo Demonstração do LED piscando na placa:
 
 [Vídeo no YouTube](https://youtu.be/lkEv3r3x7mQ)
 
-### Parte 2 – Simulação de Blink Externo no Tinkercad
+## Parte 2 – Simulação de Blink Externo no Tinkercad
 
 &emsp;Após compreender o funcionamento do LED interno, foi realizada uma simulação no Tinkercad utilizando um LED externo conectado em um protoboard. O objetivo foi replicar o mesmo comportamento de piscar, aplicando conceitos de ligação elétrica e uso de resistores.
 
@@ -105,7 +103,7 @@ Link do projeto público no Tinkercad: https://www.tinkercad.com/things/6mwpCxE0
 
 ---
 
-### Resultados Obtidos
+## Resultados Obtidos
 &emsp;A atividade permitiu compreender de forma prática como o Arduino controla dispositivos eletrônicos simples, como LEDs. Foram aprendidos os conceitos de:
 
 Definição de pinos como entrada e saída (pinMode())
@@ -119,7 +117,7 @@ Importância de resistores em circuitos elétricos
 Além disso, a transição do LED interno para o externo ajudou a reforçar os conceitos de montagem física e simulação.
 
 --- 
-### Indo além
+## Indo além
 
 Desafio de fazer mais de um LED acender
 
@@ -140,5 +138,5 @@ Vídeo Demonstração de mais de um LED piscando na placa:
 
 ---
 
-###  Conclusão
+##  Conclusão
 &emsp;Com esta prática, foi possível aprender na prática como programar o Arduino e como controlar componentes eletrônicos simples. O teste com o LED interno mostrou o funcionamento básico da placa, e a simulação no Tinkercad ajudou a entender como montar circuitos corretamente. A atividade foi importante para desenvolver o raciocínio lógico e compreender melhor o funcionamento de sistemas embarcados.
