@@ -75,6 +75,8 @@ Imagens Print da montagem no Tinkercad
 
 Link do projeto público no Tinkercad: https://www.tinkercad.com/things/6mwpCxE03LI-spectacular-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=StvxDIiSujk7066v8p8LJ7qs1ncMapeZj81u2ZNm7u8
 
+---
+
 ### Resultados Obtidos
 A atividade permitiu compreender de forma prática como o Arduino controla dispositivos eletrônicos simples, como LEDs. Foram aprendidos os conceitos de:
 
@@ -91,7 +93,7 @@ Além disso, a transição do LED interno para o externo ajudou a reforçar os c
 --- 
 ### Indo além
 
-Desafio de fazer mais de um LED acender.
+Desafio de fazer mais de um LED acender
 
 Imagem do Arduino UNO com mais de um LED  aceso
 
